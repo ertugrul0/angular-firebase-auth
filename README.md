@@ -1,3 +1,2 @@
 # angular-firebase-auth
-go to github-deployment:
-    https://ertugrul0.github.com/angular-firebase-auth/oshop
+Github deployment: https://ertugrul0.github.io/angular-firebase-auth/oshop
